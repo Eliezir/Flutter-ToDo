@@ -1,16 +1,7 @@
-# todo
+<h1 align="center">ToDo 𝗔𝗽𝗽  <img style="height:25px" src="https://media.giphy.com/media/pj6aVzkwnFLJLKWlCB/giphy.gif"></h1>
 
-A new Flutter project.
+<<h1 align="center"> A Flutter ToDo list app </h2>
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<div align="center">
+  <img style="height:586px"src="ToDoImg.png">
+</div>
